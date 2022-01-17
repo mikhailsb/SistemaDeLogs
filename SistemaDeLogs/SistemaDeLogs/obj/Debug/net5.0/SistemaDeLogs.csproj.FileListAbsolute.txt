@@ -1,0 +1,16 @@
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\bin\Debug\net5.0\SistemaDeLogs.exe
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\bin\Debug\net5.0\SistemaDeLogs.deps.json
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\bin\Debug\net5.0\SistemaDeLogs.runtimeconfig.json
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\bin\Debug\net5.0\SistemaDeLogs.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\bin\Debug\net5.0\SistemaDeLogs.dll
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\bin\Debug\net5.0\ref\SistemaDeLogs.dll
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\bin\Debug\net5.0\SistemaDeLogs.pdb
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.dll
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\ref\SistemaDeLogs.dll
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.pdb
+E:\Projetos\Git\GitHub\SistemaDeLogs\SistemaDeLogs\SistemaDeLogs\obj\Debug\net5.0\SistemaDeLogs.genruntimeconfig.cache
