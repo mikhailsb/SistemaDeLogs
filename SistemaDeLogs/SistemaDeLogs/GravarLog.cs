@@ -19,12 +19,25 @@ namespace SistemaDeLogs
 
         public void Gravar()
         {
-            if(!File.Exists(EnderecoArquivo+NomeArquivo))
+            if(DirectoryInfo(EnderecoArquivo))
             {
-
-                Console.WriteLine("Não existe");
+                Console.WriteLine("Diretório criado com sucesso.");
+                File.Create(EnderecoArquivo + NomeArquivo);
             }
+
         }
 
+        private bool DirectoryInfo(string enderecoArquivo)
+        {
+            DirectoryInfo di = new DirectoryInfo(enderecoArquivo);
+            if (!di.Exists)
+            {
+                di.Create();
+                return true;
+            }
+            else
+                return false;
+
+        }
     }
 }
